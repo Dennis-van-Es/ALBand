@@ -1,0 +1,35 @@
+{
+    "id": "2cccf843-c6f8-425d-a4ad-90acec159d07",
+    "name": "ALBand",
+    "publisher": "Oracle",
+    "version": "0.0.0.1",
+    "brief": "AngBand in AL",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "propagateDependencies": true,
+    "screenshots": [],
+    "platform": "22.0.0.0",
+    "application": "22.0.0.0",
+    "idRanges": [
+      {
+        "from": 50000,
+        "to": 59999
+      }
+    ],
+    "resourceExposurePolicy": {
+      "allowDebugging": true,
+      "allowDownloadingSource": false,
+      "includeSourceInSymbolFile": false
+    },
+    "runtime": "11.0",
+    "target": "Cloud",
+    "features": [
+      "TranslationFile",
+      "NoImplicitWith"
+    ]
+  }
